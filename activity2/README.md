@@ -3,12 +3,13 @@
 This Arduino project gradually turns on and off five LEDs connected to different pins. The LEDs fade in and out using Pulse Width Modulation (PWM) to create a smooth brightness transition.
 
 ## Preparation
-What you need:
+1. What you need:
     - Arduino UNO 
     - 5 LEDs
     - Wires
     - Breadboard
-[Breadboard Diagram here.](/analog_signals_breadboard-diagram.ino)
+
+2. [Breadboard Diagram here.](activity2/analog_signals_breadboard-diagram.ino)
 
 ## Explanation
 1. Setup
