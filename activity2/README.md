@@ -9,7 +9,7 @@ This Arduino project gradually turns on and off five LEDs connected to different
     - Wires
     - Breadboard
 
-2. [Breadboard Diagram here.](activity2/analog_signals_breadboard-diagram.ino)
+2. [Breadboard Diagram here.](./analog_signals_breadboard-diagram.ino)
 
 ## Explanation
 1. Setup
