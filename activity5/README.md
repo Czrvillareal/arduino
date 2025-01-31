@@ -13,18 +13,18 @@ The system operates in two modes:
 
 ## Preparation
 1. What you need:
-    - Arduino UNO 
-    - Photoresistor(A0)
-    - LED (Green(pin 11), Yellow(pin 12), Red(pin 13))
-    - Wires
-    - Resistors
-    - Breadboard
+    1. Arduino UNO 
+    2. Photoresistor(A0)
+    3. LED (Green(pin 11), Yellow(pin 12), Red(pin 13))
+    4. Wires
+    5. Resistors
+    6. Breadboard
 
 ## Explanation
 1. Setup
-    - The photoresistor measures ambient light intensity.
-    - The LEDs indicate different light intensity levels.
-    - The Serial Monitor (9600 baud rate) displays real-time light intensity and allows user input.
+    1. The photoresistor measures ambient light intensity.
+    2. The LEDs indicate different light intensity levels.
+    3. The Serial Monitor (9600 baud rate) displays real-time light intensity and allows user input.
 2. Loop
     1. Reads the light intensity and converts it to a percentage (0% - 100%).
     2. If in Automatic Mode, the system categorizes the environment into:
