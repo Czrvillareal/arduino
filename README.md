@@ -1,4 +1,4 @@
-# Simple Arduino Activities
+# Student Portfolio
 Compilation of Activities done in COSC111
 
 ## Table of Contents
